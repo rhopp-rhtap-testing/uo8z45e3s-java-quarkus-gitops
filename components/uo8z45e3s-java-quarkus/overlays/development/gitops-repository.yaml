@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: uo8z45e3s-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/uo8z45e3s-java-quarkus-gitops
